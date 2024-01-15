@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+UvA Data Systems Project. Extracting norms from Card Board game rules
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
