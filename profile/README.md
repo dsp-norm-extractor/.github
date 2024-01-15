@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-UvA Data Systems Project. Extracting norms from Card Board game rules
+University of Amsterdam Data Systems Project. Extracting norms from Card Board game rules
 
 
 
