@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-Data Systems Project 2024
 
-The report discusses the challenges of interpreting normative texts, such as laws and policies, due to their complexity and the scarcity of experts. To overcome this, the project uses transformer-based machine learning to automate the extraction of formalized constructs from these texts. The system incorporates expert feedback for iterative model retraining, enhancing adaptability to various text types. While the models show promising accuracy with game rule sentences, the quality of results depends on the complexity of the input and the diversity of training data. User intervention is required to refine results and provide feedback for model retraining.
-
-This organisation collects the technical repositories needed to create the following work: https://www.overleaf.com/read/fdskhmzbdsjq#11fd3f
-
-  By Group D2 | **Master Information Studies at University of Amsterdam**
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/w-VBJzF32yk/0.jpg)](https://www.youtube.com/watch?v=w-VBJzF32yk)
 
 ![poster](https://github.com/dsp-norm-extractor/.github/assets/86408236/67db6ff4-5aea-486c-86ff-960df9cfd6ce)
 
