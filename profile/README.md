@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/w-VBJzF32yk/0.jpg)](https://www.youtube.com/watch?v=w-VBJzF32yk)
+Video : https://www.youtube.com/watch?v=w-VBJzF32yk
 
 ![poster](https://github.com/dsp-norm-extractor/.github/assets/86408236/67db6ff4-5aea-486c-86ff-960df9cfd6ce)
 
